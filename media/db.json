@@ -11,59 +11,14 @@
   ],
   "albums": [
     {
-      "id": 10,
-      "title": "Hiking Trip",
-      "userId": 1
-    },
-    {
-      "userId": 1,
-      "title": "Refined Concrete Salad",
-      "id": 11
-    },
-    {
-      "userId": 1,
-      "title": "Electronic Frozen Bike",
-      "id": 12
-    },
-    {
-      "userId": 1,
-      "title": "Incredible Frozen Cheese",
-      "id": 13
-    },
-    {
-      "userId": 1,
-      "title": "Bespoke Concrete Soap",
-      "id": 14
-    },
-    {
-      "userId": 1,
-      "title": "Generic Granite Cheese",
-      "id": 15
-    },
-    {
-      "userId": 1,
-      "title": "Intelligent Cotton Computer",
-      "id": 16
-    },
-    {
-      "userId": 1,
-      "title": "Gorgeous Cotton Car",
-      "id": 17
-    },
-    {
-      "userId": 1,
-      "title": "Refined Fresh Bacon",
-      "id": 18
-    },
-    {
-      "userId": 1,
-      "title": "Small Plastic Bacon",
-      "id": 19
-    },
-    {
       "userId": 1,
       "title": "Elegant Soft Chicken",
       "id": 20
+    },
+    {
+      "userId": 1,
+      "title": "Modern Granite Shoes",
+      "id": 21
     }
   ],
   "photos": []
